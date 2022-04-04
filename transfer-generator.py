@@ -13,7 +13,7 @@ from datetime import datetime
 zip_codes_file = "zip-codes.txt"
 transfer_form_file = "overgangsskjema2020.pdf"
 association_transfer_file = "EndringAvKlubbtilhorighet2020.pdf"
-signature_file = "signatur.png"
+signature_file = "signature.png"
 signature_height = 20
 
 # signature coordinates
