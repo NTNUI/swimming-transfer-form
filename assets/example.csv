@@ -1,0 +1,3 @@
+"id","first_name","surname","gender","birth_date","phone","email","address","zip","licensee","registration_date","approved_date","have_volunteered","license_forwarded","CIN"
+"1","Stephen","Sanchez","Male","1996-02-19","+4712342069",".lindsaylutz@example.com","6993 Nelson Key, New William, IA","9121","Oslo IL","2022-01-05","2022-01-07","1","0","NULL"
+"2","Diana","Benson","Female","1929-11-27","+4742069321","gday@example.net","72245 Charles Plains, Charlesberg, SC ","1598","Bergen IL","2022-01-06","2022-01-07","NULL","0","NULL"
