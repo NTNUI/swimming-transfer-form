@@ -40,4 +40,12 @@ python transfer-generator.py member.csv
 ### Other
 
 [Source Norwegian zip codes](https://www.bring.no/tjenester/adressetjenester/postnummer)
+
 [Source transfer forms](https://svomming.no/forbundet/klubbdrift/organisasjon/overganger/)
+
+
+### Authors
+
+[Ola Martin Tiseth Støvneng](https://github.com/olamartin)
+
+[Pavel Skipenes](https://github.com/pavelskipenes)
